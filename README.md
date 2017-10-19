@@ -27,5 +27,5 @@ The ability to replicate and synchronise metadata information between Dynamics C
 
 ## Getting Started
 
-[Click here to download the latest distribution]()
-[Click here to get started](https://github.com/hncrm/HNDocument/wiki/Getting-Started)
++ [Click here to download the latest distribution]https://github.com/hncrm/HNDocument/releases)  
++ [Click here to get started](https://github.com/hncrm/HNDocument/wiki/Getting-Started)
