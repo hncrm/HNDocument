@@ -25,3 +25,7 @@ The ability to replicate and synchronise metadata information between Dynamics C
 + Supports uploading of Email attachments to Sharepoint.
 + Self contained background synchronisation on existing entitties and records. 
 
+## Getting Started
+
+[Click here to download the latest distribution]()
+[Click here to get started](https://github.com/hncrm/HNDocument/wiki/Getting-Started)
